@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TraitDef>
+    <defName>TAG</defName>
+    <commonality>0.3</commonality>
+    <degreeDatas>
+      <li>
+        <label>Alpha TAG</label>
+        <description>NAME had an outstanding reaction to being born on Luciferium. HECAP has phenomenal abilities compared to normal humans. Like all TAGS, NAME is more prone to mental breaks.</description>
+        <socialFightChanceFactor>3</socialFightChanceFactor>
+		<degree>4</degree>
+		<statFactors>
+          <MeleeHitChance>2.50</MeleeHitChance>
+        </statFactors>
+        <statOffsets>
+		  <AimingDelayFactor>-0.5</AimingDelayFactor>
+          <ShootingAccuracyPawn>0.8</ShootingAccuracyPawn>
+		  <GlobalLearningFactor>0.9</GlobalLearningFactor>
+          <MoveSpeed>0.20</MoveSpeed>
+		  <MentalBreakThreshold>0.10</MentalBreakThreshold>
+        </statOffsets>
+      </li>
+      <li>
+        <label>Beta TAG</label>
+        <description>NAME had a superior outcome to being born on Luciferium. HECAP has outstanding abilities compared to normal humans. Sadly like all TAGS, NAME is more prone to mental breaks.</description>
+        <socialFightChanceFactor>3</socialFightChanceFactor>
+		<degree>3</degree>
+		<statFactors>
+          <MeleeHitChance>2.00</MeleeHitChance>
+        </statFactors>
+        <statOffsets>
+		  <AimingDelayFactor>-0.4</AimingDelayFactor>
+          <ShootingAccuracyPawn>0.6</ShootingAccuracyPawn>
+		  <GlobalLearningFactor>0.6</GlobalLearningFactor>
+          <MoveSpeed>0.20</MoveSpeed>
+		  <MentalBreakThreshold>0.10</MentalBreakThreshold>
+        </statOffsets>
+      </li>
+      <li>
+        <label>Gamma TAG</label>
+        <description>NAME had an average reaction to being born on Luciferium. HECAP has exceptional abilities compared to normal humans. As with all TAGS, NAME is more prone to mental breaks.</description>
+        <socialFightChanceFactor>3</socialFightChanceFactor>
+		<degree>2</degree>
+        <statOffsets>
+		  <AimingDelayFactor>-0.3</AimingDelayFactor>
+          <ShootingAccuracyPawn>0.5</ShootingAccuracyPawn>
+		  <GlobalLearningFactor>0.5</GlobalLearningFactor>
+          <MoveSpeed>0.20</MoveSpeed>
+		  <MentalBreakThreshold>0.10</MentalBreakThreshold>
+        </statOffsets>
+      </li> 
+	    <li>
+        <label>Delta TAG</label>
+        <description>NAME had a sub par reaction to being born on Luciferium. HECAP has above average abilities compared to normal humans. Like all TAGS, NAME is more prone to mental breaks.</description>
+        <socialFightChanceFactor>3</socialFightChanceFactor>
+		<degree>1</degree>
+        <statOffsets>
+		  <AimingDelayFactor>-0.2</AimingDelayFactor>
+          <ShootingAccuracyPawn>0.2</ShootingAccuracyPawn>
+		  <GlobalLearningFactor>0.2</GlobalLearningFactor>
+          <MoveSpeed>0.20</MoveSpeed>
+		  <MentalBreakThreshold>0.10</MentalBreakThreshold>
+        </statOffsets>
+      </li> 
+	  <li>
+        <label>Nuero TAG</label>
+        <description>NAME had a two sided outcome from being born on Luciferium. HECAP has both crippling mental issues and outstanding abilities.</description>
+       <socialFightChanceFactor>3</socialFightChanceFactor>
+	   <degree>-1</degree>
+        <statOffsets>
+		  <AimingDelayFactor>-0.5</AimingDelayFactor>
+          <ShootingAccuracyPawn>0.6</ShootingAccuracyPawn>
+		  <GlobalLearningFactor>0.6</GlobalLearningFactor>
+		  <MoveSpeed>0.20</MoveSpeed>
+		  <MentalBreakThreshold>0.30</MentalBreakThreshold>
+        </statOffsets>
+      </li>      	  
+    </degreeDatas>
+	<requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
+  </TraitDef>
+
+
+</Defs>
