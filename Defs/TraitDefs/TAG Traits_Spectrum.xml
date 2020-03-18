@@ -7,7 +7,7 @@
     <degreeDatas>
       <li>
         <label>Alpha TAG</label>
-        <description>NAME had an outstanding reaction to being born on Luciferium. HECAP has phenomenal abilities compared to normal humans. Like all TAGS, NAME is more prone to mental breaks.</description>
+        <description>{PAWN_nameDef} had an outstanding reaction to being born on Luciferium. {PAWN_pronoun} has phenomenal abilities compared to normal humans. Like all TAGS, {PAWN_nameDef} is more prone to mental breaks.</description>
         <socialFightChanceFactor>3</socialFightChanceFactor>
 		<degree>4</degree>
 		<statFactors>
@@ -23,7 +23,7 @@
       </li>
       <li>
         <label>Beta TAG</label>
-        <description>NAME had a superior outcome to being born on Luciferium. HECAP has outstanding abilities compared to normal humans. Sadly like all TAGS, NAME is more prone to mental breaks.</description>
+        <description>{PAWN_nameDef} had a superior outcome to being born on Luciferium. {PAWN_pronoun} has outstanding abilities compared to normal humans. Sadly like all TAGS, {PAWN_nameDef} is more prone to mental breaks.</description>
         <socialFightChanceFactor>3</socialFightChanceFactor>
 		<degree>3</degree>
 		<statFactors>
@@ -39,7 +39,7 @@
       </li>
       <li>
         <label>Gamma TAG</label>
-        <description>NAME had an average reaction to being born on Luciferium. HECAP has exceptional abilities compared to normal humans. As with all TAGS, NAME is more prone to mental breaks.</description>
+        <description>{PAWN_nameDef} had an average reaction to being born on Luciferium. {PAWN_pronoun} has exceptional abilities compared to normal humans. As with all TAGS, {PAWN_nameDef} is more prone to mental breaks.</description>
         <socialFightChanceFactor>3</socialFightChanceFactor>
 		<degree>2</degree>
         <statOffsets>
@@ -52,7 +52,7 @@
       </li> 
 	    <li>
         <label>Delta TAG</label>
-        <description>NAME had a sub par reaction to being born on Luciferium. HECAP has above average abilities compared to normal humans. Like all TAGS, NAME is more prone to mental breaks.</description>
+        <description>{PAWN_nameDef} had a sub par reaction to being born on Luciferium. {PAWN_pronoun} has above average abilities compared to normal humans. Like all TAGS, {PAWN_nameDef} is more prone to mental breaks.</description>
         <socialFightChanceFactor>3</socialFightChanceFactor>
 		<degree>1</degree>
         <statOffsets>
@@ -65,7 +65,7 @@
       </li> 
 	  <li>
         <label>Nuero TAG</label>
-        <description>NAME had a two sided outcome from being born on Luciferium. HECAP has both crippling mental issues and outstanding abilities.</description>
+        <description>{PAWN_nameDef} had a two sided outcome from being born on Luciferium. {PAWN_pronoun} has both crippling mental issues and outstanding abilities.</description>
        <socialFightChanceFactor>3</socialFightChanceFactor>
 	   <degree>-1</degree>
         <statOffsets>
