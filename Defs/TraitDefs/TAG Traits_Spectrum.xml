@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <TraitDef>
     <defName>TAG</defName>
     <commonality>0.3</commonality>
@@ -9,78 +8,76 @@
         <label>Alpha TAG</label>
         <description>{PAWN_nameDef} had an outstanding reaction to being born on Luciferium. {PAWN_pronoun} has phenomenal abilities compared to normal humans. Like all TAGS, {PAWN_nameDef} is more prone to mental breaks.</description>
         <socialFightChanceFactor>3</socialFightChanceFactor>
-		<degree>4</degree>
-		<statFactors>
+        <degree>4</degree>
+        <statFactors>
           <MeleeHitChance>2.50</MeleeHitChance>
         </statFactors>
         <statOffsets>
-		  <AimingDelayFactor>-0.5</AimingDelayFactor>
+          <AimingDelayFactor>-0.5</AimingDelayFactor>
           <ShootingAccuracyPawn>0.8</ShootingAccuracyPawn>
-		  <GlobalLearningFactor>0.9</GlobalLearningFactor>
+          <GlobalLearningFactor>0.9</GlobalLearningFactor>
           <MoveSpeed>0.20</MoveSpeed>
-		  <MentalBreakThreshold>0.10</MentalBreakThreshold>
+          <MentalBreakThreshold>0.10</MentalBreakThreshold>
         </statOffsets>
       </li>
       <li>
         <label>Beta TAG</label>
         <description>{PAWN_nameDef} had a superior outcome to being born on Luciferium. {PAWN_pronoun} has outstanding abilities compared to normal humans. Sadly like all TAGS, {PAWN_nameDef} is more prone to mental breaks.</description>
         <socialFightChanceFactor>3</socialFightChanceFactor>
-		<degree>3</degree>
-		<statFactors>
+        <degree>3</degree>
+        <statFactors>
           <MeleeHitChance>2.00</MeleeHitChance>
         </statFactors>
         <statOffsets>
-		  <AimingDelayFactor>-0.4</AimingDelayFactor>
+          <AimingDelayFactor>-0.4</AimingDelayFactor>
           <ShootingAccuracyPawn>0.6</ShootingAccuracyPawn>
-		  <GlobalLearningFactor>0.6</GlobalLearningFactor>
+          <GlobalLearningFactor>0.6</GlobalLearningFactor>
           <MoveSpeed>0.20</MoveSpeed>
-		  <MentalBreakThreshold>0.10</MentalBreakThreshold>
+          <MentalBreakThreshold>0.10</MentalBreakThreshold>
         </statOffsets>
       </li>
       <li>
         <label>Gamma TAG</label>
         <description>{PAWN_nameDef} had an average reaction to being born on Luciferium. {PAWN_pronoun} has exceptional abilities compared to normal humans. As with all TAGS, {PAWN_nameDef} is more prone to mental breaks.</description>
         <socialFightChanceFactor>3</socialFightChanceFactor>
-		<degree>2</degree>
+        <degree>2</degree>
         <statOffsets>
-		  <AimingDelayFactor>-0.3</AimingDelayFactor>
+          <AimingDelayFactor>-0.3</AimingDelayFactor>
           <ShootingAccuracyPawn>0.5</ShootingAccuracyPawn>
-		  <GlobalLearningFactor>0.5</GlobalLearningFactor>
+          <GlobalLearningFactor>0.5</GlobalLearningFactor>
           <MoveSpeed>0.20</MoveSpeed>
-		  <MentalBreakThreshold>0.10</MentalBreakThreshold>
+          <MentalBreakThreshold>0.10</MentalBreakThreshold>
         </statOffsets>
-      </li> 
-	    <li>
+      </li>
+      <li>
         <label>Delta TAG</label>
         <description>{PAWN_nameDef} had a sub par reaction to being born on Luciferium. {PAWN_pronoun} has above average abilities compared to normal humans. Like all TAGS, {PAWN_nameDef} is more prone to mental breaks.</description>
         <socialFightChanceFactor>3</socialFightChanceFactor>
-		<degree>1</degree>
+        <degree>1</degree>
         <statOffsets>
-		  <AimingDelayFactor>-0.2</AimingDelayFactor>
+          <AimingDelayFactor>-0.2</AimingDelayFactor>
           <ShootingAccuracyPawn>0.2</ShootingAccuracyPawn>
-		  <GlobalLearningFactor>0.2</GlobalLearningFactor>
+          <GlobalLearningFactor>0.2</GlobalLearningFactor>
           <MoveSpeed>0.20</MoveSpeed>
-		  <MentalBreakThreshold>0.10</MentalBreakThreshold>
+          <MentalBreakThreshold>0.10</MentalBreakThreshold>
         </statOffsets>
-      </li> 
-	  <li>
+      </li>
+      <li>
         <label>Nuero TAG</label>
         <description>{PAWN_nameDef} had a two sided outcome from being born on Luciferium. {PAWN_pronoun} has both crippling mental issues and outstanding abilities.</description>
-       <socialFightChanceFactor>3</socialFightChanceFactor>
-	   <degree>-1</degree>
+        <socialFightChanceFactor>3</socialFightChanceFactor>
+        <degree>-1</degree>
         <statOffsets>
-		  <AimingDelayFactor>-0.5</AimingDelayFactor>
+          <AimingDelayFactor>-0.5</AimingDelayFactor>
           <ShootingAccuracyPawn>0.6</ShootingAccuracyPawn>
-		  <GlobalLearningFactor>0.6</GlobalLearningFactor>
-		  <MoveSpeed>0.20</MoveSpeed>
-		  <MentalBreakThreshold>0.30</MentalBreakThreshold>
+          <GlobalLearningFactor>0.6</GlobalLearningFactor>
+          <MoveSpeed>0.20</MoveSpeed>
+          <MentalBreakThreshold>0.30</MentalBreakThreshold>
         </statOffsets>
-      </li>      	  
+      </li>
     </degreeDatas>
-	<requiredWorkTags>
+    <requiredWorkTags>
       <li>Violent</li>
     </requiredWorkTags>
   </TraitDef>
-
-
 </Defs>

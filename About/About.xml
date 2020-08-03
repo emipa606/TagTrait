@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Tag Trait (Continued)</name>
-	  <packageId>Mlie.TagTrait</packageId>
+  <name>Tag Trait (Continued)</name>
+  <packageId>Mlie.TagTrait</packageId>
   <author>Mlie</author>
   <url>https://github.com/emipa606/TagTrait</url>
   <supportedVersions>
     <li>1.0</li>
     <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
-  <modDependencies/>
-  <loadAfter/>
+  <modDependencies />
+  <loadAfter />
   <description>
     Update of Enns mod for RimWorld 1.1
     https://steamcommunity.com/sharedfiles/filedetails/?id=820066993
