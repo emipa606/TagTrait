@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <TAG.degreeDatas.0.label>Alpha TAG</TAG.degreeDatas.0.label>
   <TAG.degreeDatas.0.description>{PAWN_nameDef} had an outstanding reaction to being born on Luciferium. {PAWN_pronoun} has phenomenal abilities compared to normal humans. Like all TAGS, {PAWN_nameDef} is more prone to mental breaks.</TAG.degreeDatas.0.description>
   <TAG.degreeDatas.1.label>Beta TAG</TAG.degreeDatas.1.label>
@@ -11,6 +10,4 @@
   <TAG.degreeDatas.3.description>{PAWN_nameDef} had a sub par reaction to being born on Luciferium. {PAWN_pronoun} has above average abilities compared to normal humans. Like all TAGS, {PAWN_nameDef} is more prone to mental breaks.</TAG.degreeDatas.3.description>
   <TAG.degreeDatas.4.label>Nuero TAG</TAG.degreeDatas.4.label>
   <TAG.degreeDatas.4.description>{PAWN_nameDef} had a two sided outcome from being born on Luciferium. {PAWN_pronoun} has both crippling mental issues and outstanding abilities.</TAG.degreeDatas.4.description>
-
-
 </LanguageData>
