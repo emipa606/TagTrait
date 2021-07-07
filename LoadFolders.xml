@@ -10,4 +10,8 @@
     <li>/</li>
     <li IfModActive="syrchalis.traitvalue">SYRTraitValue</li>
   </v1.2>
+  <v1.3>
+    <li>/</li>
+    <li IfModActive="syrchalis.traitvalue">SYRTraitValue</li>
+  </v1.3>
 </loadFolders>
