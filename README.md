@@ -1,25 +1,16 @@
 # TagTrait
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
     Update of Enns mod
     https://steamcommunity.com/sharedfiles/filedetails/?id=820066993
 
 - Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/TagTrait]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 Adds TAG Traits to the game for Pawns born while on Licuferum.
@@ -30,7 +21,7 @@ Adds TAG Traits to the game for Pawns born while on Licuferum.
  Nuero TAG: two sided outcome from being born on Luciferium. - both crippling mental issues and outstanding abilities.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
