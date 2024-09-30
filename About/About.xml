@@ -57,6 +57,5 @@ Adds TAG Traits to the game for Pawns born while on Licuferum.
 [/list]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2018264580][img]https://img.shields.io/github/v/release/emipa606/TagTrait?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
-  <modIconPath IgnoreIfNoMatchingField="True">ModIcon/TagTrait</modIconPath>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
 </ModMetaData>
