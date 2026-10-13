@@ -33,4 +33,4 @@ Adds TAG Traits to the game for Pawns born while on Licuferum.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/TagTrait?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2018264580) | tags: luciferium, abilities
+[![Image](https://img.shields.io/github/v/release/emipa606/TagTrait?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2018264580) | luciferium, abilities
